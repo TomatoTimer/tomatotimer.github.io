@@ -15,11 +15,11 @@ The following **required** functionality is completed:
 - [ ] User can user their keyboard to select the tab, start the time, stop the time, and reset the time.
 - [ ] User can enable and disable desktop alert.
 - User can go to setting and change:
-  [ ] 1. Pomodoro duration.
-  [ ] 2. Short break duration.
-  [ ] 3. Long break duration.
-  [ ] 4. Sound.
-  [ ] 5. Sound Volume
+  - [ ] 1. Pomodoro duration.
+  - [ ] 2. Short break duration.
+  - [ ] 3. Long break duration.
+  - [ ] 4. Sound.
+  - [ ] 5. Sound Volume
 
      
 The following optional features are implemented:
